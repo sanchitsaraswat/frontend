@@ -1,4 +1,4 @@
-import HeroSection from "./components/herosection";
+import HeroSection from "./components/Herosection";
 function App() {
   return (
     <div className="font-sans">
